@@ -1,0 +1,42 @@
+2025-08-05 21:33:05.383988 | Compliment | Input: I m beautifu; | Output: You said: *I m beautifu;*... and still thought you’d escape a roast? 😏
+2025-08-05 21:33:45.903581 | Roast | Input: I m beautiful | Output: You said: *I m beautiful*... and still thought you’d escape a roast? 😏
+2025-08-05 21:34:02.067476 | Roast | Input: Surprise me! | Output: You said: *Surprise me!*... and still thought you’d escape a roast? 😏
+2025-08-05 21:34:20.298016 | Compliment | Input: I m beautiful | Output: You said: *I m beautiful*... and still thought you’d escape a roast? 😏
+2025-08-05 21:34:52.163718 | Roast | Input: I m beautiful | Output: You said: *I m beautiful*... and still thought you’d escape a roast? 😏
+2025-08-05 21:34:56.743485 | Roast | Input: I m beautiful | Output: You emit more warning signals than a linter. ⚠️
+2025-08-05 21:35:08.886677 | Roast | Input: Feeling meh | Output: Your life throws more exceptions than Python. 🚫
+2025-08-05 21:35:46.771346 | Roast | Input: I m cute | Output: You're the average in a data set of extremes. 📉
+2025-08-05 21:36:00.283696 | Roast | Input: Why is AI so weird | Output: You're like Monday... just there. 🗓️😒
+2025-08-05 21:36:11.397109 | Compliment | Input: I m cute | Output: You're rocking life like it's a runway. 💃
+2025-08-05 21:36:23.805319 | Compliment | Input: Surprise me! | Output: Even when quiet, you radiate good energy. 🌈
+2025-08-05 21:36:35.512683 | Compliment | Input: I m cute | Output: You said: *I m cute*... and still thought you’d escape a roast? 😏
+2025-08-05 21:36:46.359903 | Compliment | Input: I’m coding | Output: You said: *I’m coding*... and still thought you’d escape a roast? 😏
+2025-08-05 21:36:52.452948 | Compliment | Input: I m cute | Output: You said: *I m cute*... and still thought you’d escape a roast? 😏
+2025-08-05 21:48:57.408955 | Compliment | Input: I m feeling bad | Output: Even in sadness, your soul still glows. 🌙
+2025-08-05 21:49:19.000152 | Roast | Input: I m feeling bad | Output: You're living proof that confidence is 90% of coding. 💁‍♀️💻
+2025-08-05 21:51:21.987317 | Roast | Input: I m sad | Output: That was so neutral, it deserves a 'meh'. 😶
+2025-08-05 21:51:54.549165 | Roast | Input: I’m coding | Output: You're like a calendar invite with no details. 🗓️❓
+2025-08-05 21:52:01.372537 | Roast | Input: Why is AI so weird | Output: You're the pause button in an action movie. ⏸️
+2025-08-05 21:52:05.396117 | Roast | Input: I’m coding | Output: You're like a snooze button. Predictable and slightly irritating. ⏰
+2025-08-05 21:52:32.020238 | Compliment | Input: Feeling meh | Output: You're like a class that just works. 🏷️
+2025-08-05 21:54:21.673552 | Roast | Input: I love ice cream | Output: You're a silent notification. 🔕
+2025-08-05 21:54:41.165574 | Roast | Input: Feeling meh | Output: You're as exciting as dry toast without butter. 🍞
+2025-08-05 21:56:25.169846 | Roast | Input: I m cute | Output: You're like a keyboard with no backlight — invisible in the dark. 🌚⌨️
+2025-08-05 21:58:51.540030 | Roast | Input: I m beautiful | Output: That was so neutral, it deserves a 'meh'. 😶
+2025-08-05 21:58:58.180120 | Roast | Input: I’m coding | Output: You're neutral — the Switzerland of personality. 🇨🇭
+2025-08-05 21:59:09.782894 | Roast | Input: I m beautiful | Output: You said: *I m beautiful*... and still thought you’d escape a roast? 😏
+2025-08-05 21:59:22.606815 | Compliment | Input: I m beautiful | Output: You said: *I m beautiful*... and still thought you’d escape a roast? 😏
+2025-08-05 21:59:29.699795 | Compliment | Input: I m beautiful | Output: You're code AND confidence goals. 👑
+2025-08-05 21:59:42.920090 | Compliment | Input: I m beautiful | Output: You're the default dark mode in a world of light themes. 🌒
+2025-08-05 22:03:59.098807 | Roast | Input: I m happy for the first time | Output: You're coding like nobody's watching — and it shows. 🎉
+2025-08-05 22:04:24.065902 | Roast | Input: I m so cute  | Output: You're the main character... in a debugging tragedy. 🎭
+2025-08-05 22:04:42.321485 | Roast | Input: I m going to college | Output: You're brighter than my screen in a pitch-black terminal. 💡
+2025-08-05 22:05:01.432246 | Roast | Input: I love you | Output: You're sunshine on a bug-fix Monday. 🌞🐞
+2025-08-05 22:05:11.966244 | Roast | Input: Feeling meh | Output: You're the cherry on top of a bug-ridden ice cream sundae. 🍒🍨
+2025-08-05 22:34:40.883723 | Roast | Input: I m cute | Output: You're like a default switch case — nobody uses you. 😐
+2025-08-05 22:37:36.589512 | Compliment | Input: I m an idiot | Output: Even in sadness, your soul still glows. 🌙
+2025-08-05 22:38:03.289096 | Roast | Input: I m an idiot | Output: You're like a default switch case — nobody uses you. 😐
+2025-08-05 22:38:18.697906 | Roast | Input: Feeling meh | Output: You're like a meeting with no agenda. 🙄
+2025-08-07 09:31:27.252148 | Roast | Input: im angry | Output: Your sadness has more layers than a neural network. 🧠🧅
+2025-08-07 09:31:57.955575 | Compliment | Input: im angry | Output: You're processing — and that’s okay. 🔄
+2025-08-07 09:32:13.523147 | Roast | Input: im angry | Output: You said: *im angry*... and still thought you’d escape a roast? 😏
